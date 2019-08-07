@@ -46,7 +46,7 @@ Refernce Link: https://angular.io/guide/setup-local
 
 ### Tips
 1. When saving Angular will automatically recompile! 
-   > Only changed files will recompile, so unchaged files are ignored which can cause unexpected behavior when testing in the browser
+   > Only changed files will recompile, so unchaged files are ignored which can cause unexpected behavior when testing in the browser.
    > To avoid that, go to (in VS Code) File > Preferences > Keyboard Shortcuts and change the keybinding "strg s" to save all (from save), so all files will be changed and all    changes are recompiled.
 2. VS Code is highly customizable! List of useful extensions:
    > 
