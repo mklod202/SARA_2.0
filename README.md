@@ -1,9 +1,9 @@
-# 'SARA 2.0 Light' - Installation guide
+# 'SARA 2.0' - Installation guide
 
 ### Release informomation
 
-+ Author: Project group HTW 'Project Consulting'
-+ Release date: 07/2019
++ Author: Project group HTW Berlin 'Project Consulting'
++ Release date: 09/2019
 
 ### Purpose of the document
 
