@@ -7,7 +7,7 @@
 
 ### Purpose of the document
 
-This document describes which software is necessary for the furhter development  of the software 'SARA 2.0 Light'.
+This document describes which software is necessary for the further development  of the software 'SARA 2.0 Light'.
 
 ### Tooldescription
 
@@ -31,8 +31,8 @@ The software listed in tabular form must first be installed and executed by the 
    `npm install Z-g @angular/cli`
 3. Open project folder in code editor <br>
     - In VS Code: File > Open Folder > Sara <br>
-    - In terminal: Navigate to /Sara, then run `code .`
-4. Before the first start or when pulling a new version run the following in the terminal <br>
+    - In terminal: Navigate to /Sara, then run `code`.
+4. Before the first start or when pulling a new version run the following in the terminal 
 > `npm install`
 > `npm install` will pull all node_modules configured in the app. This only needs to be run when changes to the modules are made or the project is imported again.
    > Tip: When moving the project from a to b or when zipping etc., select all folders but leave out the "dist" and "node_modules" folder. The node_modules folder will be         recreated when *npm install* is executed. This will shorten the file size for transferring dramatically.
