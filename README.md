@@ -1,15 +1,15 @@
-# 'SARA 2.0 Light' - Installationguide
+# 'SARA 2.0 Light' - Installation guide
 
-### Releaseinformomation
+### Release informomation
 
-+ Author: Projectgroup HTW 'Project Consulting'
-+ Releasedate: 07/2019
++ Author: Project group HTW 'Project Consulting'
++ Release date: 07/2019
 
 ### Purpose of the document
 
 This document describes which software is necessary for the further development  of the software 'SARA 2.0 Light'.
 
-### Tooldescription
+### Tool description
 
 SARA stands for "Structure Ability Rating Application" and can be used to for determining the maturity level in terms of readiness for industry 4.0.
 
@@ -17,7 +17,7 @@ SARA stands for "Structure Ability Rating Application" and can be used to for de
 
 The software listed in tabular form must first be installed and executed by the user for execution.
 
-|Softwarename|Downloadlink|Purpose|
+|Software name|Download link|Purpose|
 |------------|:-----------|:-------------------------|
 |Angular|https://angular.io/ |Visualize the frontend via localhost.|
 |Visual Studio Code|https://code.visualstudio.com/download |Needed as IDE for developers. This IDE is a suggestion.|
@@ -42,11 +42,11 @@ The software listed in tabular form must first be installed and executed by the 
    > *npm start* (if angular was not installed or *ng serve* did not work)
 6. Start coding! Project will run in browser on: localhost:/4200
 
-Refernce Link: https://angular.io/guide/setup-local
+Reference Link: https://angular.io/guide/setup-local
 
 ### Tips
 1. When saving Angular will automatically recompile! 
-   > Only changed files will recompile, so unchaged files are ignored which can cause unexpected behavior when testing in the browser.
+   > Only changed files will recompile, so unchanged files are ignored which can cause unexpected behavior when testing in the browser.
    > To avoid that, go to (in VS Code) File > Preferences > Keyboard Shortcuts and change the keybinding "strg s" to save all (from save), so all files will be changed and all    changes are recompiled.
 2. VS Code is highly customizable! List of useful extensions:
    > 
@@ -66,7 +66,7 @@ Refernce Link: https://angular.io/guide/setup-local
 
 
 
-### Useful Codesnippets
+### Useful code snippets
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
